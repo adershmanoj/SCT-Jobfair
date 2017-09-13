@@ -1,0 +1,228 @@
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-GB"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-GB"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-GB"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-GB"> <!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+        <title>Good Methods</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./../css/main.min.css">
+    <meta property="og:type" content="website" />
+    
+    	
+
+			</head>
+
+	<body class="single single-job postid-589 unready" data-template="base.twig">
+
+		    <div id="content" data-page-type="withSidebar">
+    <h1 class="logo"><a href="../">Jobfair 2016</a></h1>
+    <div class="content"  data-module="ApplyFlow">
+
+        <div id="header" class="header" style="background-image: url('./../imgs/good_methods.jpg')">
+            <div data-module="ScrollIndicator">
+                <svg version="1.1" id="scrollIndicator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" xml:space="preserve">
+                    <circle class="scrollIndicator" fill="none" cx="50%" cy="50%" r="115" stroke="#041424" stroke-width="1em"></circle>
+                </svg>
+
+                <svg version="1.1" id="scrollIndicatorMobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" xml:space="preserve">
+                    <line class="scrollIndicatorMobile" fill="none" x1="0" y1="0" x2="0" y2="0" stroke-width="15" stroke="blue" />
+                </svg>
+            </div>
+            <div class="header-content">
+                <h1>
+                    <span>JobFair 2017</span>
+                        <div>Good Methods Global</div>
+                </h1>
+                <p>
+                    <a target="_blank" href="https://goo.gl/forms/0XUvxTQHqtr7ioBh1">Apply for JobFair</a>
+                </p>
+            </div>
+        </div>
+        <div class="sidebar">
+            <!-- button class="back" data-module="backButton"></button-->
+            <div class="sidebar-content">
+                <div class="sidebar-content-wrap">
+                    <div class="details sidebar-tab -withButtons zoomInRight">
+                        <div class="tab">
+                            <div class="tab-wrap">
+                                <div class="tab-content article">
+                                    <div class="tab-content-wrap">
+                                        <h2 id="job">Good Methods Global</h2>
+                                        
+                                            <p>Good Methods Global Inc is a healthcare technology product startup from Kerala, currently headquartered in US, with a 100 member engineering team in Trivandrum. CARESTACK , our proprietary cloud based inter operable platform for the US healthcare market, enables practice, wellness and revenue cycle management for dental businesses of all sizes and complexity. Our technology and product management team split across US and India is driven by a deep sense of ownership and passion and is constantly looking for innovative ways to empower healthcare businesses to improve patient outcomes and practice profitability.
+                                            </p>
+                                            <h3>Junior Software Engineers:</h3>
+                                            <p>You will be responsible for building the enterprise SaaS platform, on the cloud, on cutting edge technologies in cloud, data analytics and business intelligence. If your passion is to put together technology into a solution we can give you a greenfield to prove your mettle. Talk about us how you built your project, your startup or your hackathon experience. </p>
+                                            <p><strong>You shouldn't apply if you don’t have:</strong></p>
+                                            <ul>
+                                                <li>Astonishing hands-on programming knowledge: No, we don’t mean the programming skills to reverse a string, but to put together an application or a technology solution together that solves an actual problem, however simple it is
+                                                </li>
+                                                <li>Confident understanding of object oriented programming, cloud applications and data structures
+                                                </li>
+                                                <li>Sharp problem solving and analytical skills</li>
+                                                <li>Experience in working on building applications, from scratch, preferably outside the academic stipulations.
+                                                </li>
+                                            </ul>
+                                            <h3>Junior Product Managers/ Business Analyst:</h3>
+                                            <p>You will be responsible for analyzing and learning the vast and complicated domain of US Healthcare, with the objective of building solutions that translate into business value for the users and the customers. If you see yourself visualizing solutions that create an impact, to businesses, to users, to people and to the world, be part of a product management team that enables you to do exactly that. 
+                                            </p>
+                                            <p><strong>You shouldn't apply if you don’t have:</strong></p>
+                                            <ul>
+                                                <li>Sharp problem solving and analytical skills</li>
+                                                <li>Interest in lateral reading</li>
+                                                <li>Creativity and out of the box thinking</li>
+                                                <li>Excellent written and verbal communication skills</li>
+                                                <li>Super high energy levels</li>
+                                                <li>Personal investments made to learn new skills or for self improvement.</li>
+                                            </ul>
+                                            <p><strong>General traits / requirements we look for:</strong></p>
+                                            <ul>
+                                                <li>Minimum 85% marks in both 10th and 12th</li>
+                                                <li>12thDriven by passion to build something innovative that will create a dent in the universe</li>
+                                                <li>Good intelligence, sound common sense </li>
+                                                <li>Excellent communication skills and adaptability </li>
+                                                <li>Never-ending hunger to learn more </li>
+                                                <li>Ability to elevate the team around him/her Willingness to bootstrap and work hard</li>
+                                            </ul>
+                                            <p><strong>Why not to join us:</strong></p>
+                                            <ul>
+                                                <li>Salary is your primary objective in your first career</li>
+                                                <li>Comfort and predictability is your preference over challenges and excitement</li>
+                                                <li>excitementBeing a part of a highly competitive and ambitious team will give you nightmares</li>
+                                                <li>nightmaresExposure is not something you badly want at this point of your time </li>
+                                                <li>timeYou don’t believe in investing time in others and making them successful to be successful yourself</li>
+                                                <li>You would not be excited by options to earn travel opportunities that expose you to our users, customers and businesses in US.</li>
+                                            </ul>
+                                            <h3 class='important'>*Only students from CS branch can apply</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="buttons">
+                                <div class="button-group">
+                                    <ul class="-distribute">
+                                        <li data-sr="wait 0s, move 5em scale 0% over 0.5s">
+                                            <a target="_blank"  href="https://goo.gl/forms/0XUvxTQHqtr7ioBh1" class="button" data-hover-text="Apply for JobFair">
+                                                <span>Apply for JobFair</span>
+                                            </a>
+                                        </li>  
+                                    </ul>
+                                </div>                       
+                            </div>
+                        </div>
+                        <div class="applierForm sidebar-tab -withButtons zoomInRight">
+                            <div class="tab">
+                                <div class="tab-wrap">
+                                    <div class="tab-content">
+                                        <div class="tab-content-wrap">
+                                            <div>
+                                                <form action="" class="applyform form">
+                                                    <input id="fileupload" type="file" name="files">
+                                                    <div>
+                                                        <label for="fullname" class="name">
+                                                            <span>Name</span>
+                                                            <input type="text" name="fullname" />
+                                                        </label>
+                                                    </div>
+                                                    <div>
+                                                        <label for="phone" class="phone">
+                                                            <span>Phone</span>
+                                                            <input type="text" name="phone" />
+                                                        </label>
+                                                    </div>
+                                                    <div>
+                                                        <label for="email" class="email">
+                                                            <span>E-mail</span>
+                                                            <input type="text" name="email" />
+                                                        </label>
+                                                    </div>
+                                                     <div>
+                                                        <label for="email" class="blah">
+                                                            <span>Blah</span>
+                                                            <input type="text" name="blah" />
+                                                        </label>
+                                                    </div>
+                                                   <div style="float: left;width: 200px;">
+                                                    <label for="the_question"><span>Do u have a degree</span></label>
+                                                    <input type="checkbox" name="the_question" id="the_question" value="1">
+                                                  </div>
+                                                   <div style="padding-left: 300px;">
+                                                    <label for="the_question"><span>Do u have a degree</span></label>
+                                                    <input type="checkbox" name="the_question" id="the_question" value="1">
+                                                  </div>
+                                                    <div>
+                                                        <label for="motivation" class="motivation">
+                                                            <span>Payment info(DD)</span>
+                                                            <textarea name="motivation"></textarea>
+                                                            <span class="word-left-count">0</span>
+                                                        </label>
+                                                    </div>
+                                                    <div>
+                                                    <label for="the_question"><span>Do u have a degree</span></label>
+                                                    <input type="checkbox" name="the_question" id="the_question" value="1">
+                                                  </div>
+
+                                                    <div class="uploadFiles"></div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="buttons">
+
+                                <div class="button-group">
+    <ul class="">
+                    <li data-sr="wait 0s, move 5em scale 0% over 0.5s">
+                <a target="_blank"  href="javascript:void(0)" class="button submit" data-hover-text="Submit">
+                    <span>Submit</span>
+                </a>
+            </li>
+            </ul>
+</div>                            </div>
+                        </div>
+
+                        <div class="thankYou sidebar-tab -withButtons zoomInRight">
+                            <div class="tab">
+                                <div class="tab-wrap">
+                                    <div class="tab-content">
+                                        <div class="tab-content-wrap">
+                                            <p>Thank you for your application.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="buttons">
+                                <div class="button-group">
+    <ul class="">
+                    <li data-sr="wait 0s, move 5em scale 0% over 0.5s">
+                <a target="_blank"  href="javascript:void(0)" class="button close" data-hover-text="Close">
+                    <span>Close</span>
+                </a>
+            </li>
+            </ul>
+</div>                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+
+                            <a data-module="BackArrow" href="../" class="back back" data-hover-text="Back">
+    <span>Back</span>
+</a>                    </div>
+    </div>
+</div>
+
+					<script src="/jobfair/js/main.min.js?v=0.0.117"></script>			
+			</body>
+</html>
+<!-- Dynamic page generated in 0.606 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-04 03:32:39 -->
+
+<!-- super cache -->

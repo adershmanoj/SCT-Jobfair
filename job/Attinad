@@ -1,0 +1,199 @@
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-GB"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-GB"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-GB"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-GB"> <!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+        <title>Attinad Software</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.min.css">
+    <meta property="og:type" content="website" />
+    
+
+			</head>
+
+	<body class="single single-job postid-589 unready" data-template="base.twig">
+
+		    <div id="content" data-page-type="withSidebar">
+    <h1 class="logo"><a href="../">Jobfair 2017</a></h1>
+    <div class="content"  data-module="ApplyFlow">
+
+        <div id="header" class="header" style="background-image: url('./../imgs/Attinad.jpg')">
+            <div data-module="ScrollIndicator">
+                <svg version="1.1" id="scrollIndicator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" xml:space="preserve">
+                    <circle class="scrollIndicator" fill="none" cx="50%" cy="50%" r="115" stroke="#041424" stroke-width="1em"></circle>
+                </svg>
+
+                <svg version="1.1" id="scrollIndicatorMobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" xml:space="preserve">
+                    <line class="scrollIndicatorMobile" fill="none" x1="0" y1="0" x2="0" y2="0" stroke-width="15" stroke="blue" />
+                </svg>
+            </div>
+
+            <div class="header-content">
+                <h1>
+                <span>JobFair 2017</span>
+                        <div>Attinad Software</div>
+                </h1>
+                <p>
+                    <a target="_blank" href="https://goo.gl/forms/0XUvxTQHqtr7ioBh1">Apply for JobFair</a>
+                </p>
+            </div>
+        </div>
+        <div class="sidebar">
+            <!-- button class="back" data-module="backButton"></button-->
+            <div class="sidebar-content">
+                <div class="sidebar-content-wrap">
+                    <div class="details sidebar-tab -withButtons zoomInRight">
+                        <div class="tab">
+                            <div class="tab-wrap">
+                                <div class="tab-content article">
+                                    <div class="tab-content-wrap">
+                                        <h2 id="job">Attinad Software</h2>
+                                            <p>Attinad Software is an industry leader in implementing end to end SMACT (Social, Mobile, Analytics, Cloud, IoT) solutions for various verticals with a holistic approach. With a wide range of technological and domain expertise and practical SMACT experience, Attinad Software offers cutting edge products and services in the SMACT space. Attinad Software offers services ranging from SMACT strategy and consulting to design, application development, implementation, maintenence and sysyem integration.</p>
+                                            <p>Our core focus is to deliver value to our customers by providing them with new generation technology driven solutions by converging them with traditional technologies in order to transform IT as the backbone for driving the buisness process transformations. We help customers leverage the potential of SMACT channels to the maximum extent in delivering their services and products. Depending on their context, Cloud Computing will act as the server backbone for the solution and analytics and social computing as the core buisness engines driving buisness transformations.</p>
+                                            <p>Our products, solutions and services focus on providing strategic differenciation and operational superiority to our customers.</p>
+                                            <p>Attinad Software has its headquaters in Trivandrum. It's fully owned subsidiaries are operating from:
+                                            <ul>
+                                                <li>San Jose, CA, USA</li>
+                                                <li>Redditch, UK</li>
+                                                <li>Sharjah, UAE</li>
+                                                <li>Abu Dhabi, UAE</li>
+                                            </ul>
+                                            <p>Attinad Software's key objective is to become the right technology and IT solutions partner for it's clients by delivering the best in class solutions that best suits their context built on top of the next generation domains and technologies while converged and connected together can address the key buisness problems.</p>
+                                            <p><strong>Name of post: Software Engineer<span class='important'> (20 Vacancies)</span> </strong></p>
+                                            <ul>
+                                                <li>B.Tech and MCA graduates can apply</li>
+                                                <li>Not more than 2 backlogs</li>
+                                                <li>Candidates who had undergone interview process once cannot apply again</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="buttons">
+                                <div class="button-group">
+                                    <ul class="-distribute">
+                                        <li data-sr="wait 0s, move 5em scale 0% over 0.5s">
+                                            <a target="_blank"  href="https://goo.gl/forms/0XUvxTQHqtr7ioBh1" class="button" data-hover-text="Apply for JobFair">
+                                                <span>Apply for JobFair</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>                            
+                            </div>
+                        </div>
+                    <div class="applierForm sidebar-tab -withButtons zoomInRight">
+                        <div class="tab">
+                            <div class="tab-wrap">
+                                <div class="tab-content">
+                                    <div class="tab-content-wrap">
+                                        <div>
+                                                <form action="" class="applyform form">
+                                                    <input id="fileupload" type="file" name="files">
+                                                    <div>
+                                                        <label for="fullname" class="name">
+                                                            <span>Name</span>
+                                                            <input type="text" name="fullname" />
+                                                        </label>
+                                                    </div>
+                                                    <div>
+                                                        <label for="phone" class="phone">
+                                                            <span>Phone</span>
+                                                            <input type="text" name="phone" />
+                                                        </label>
+                                                    </div>
+                                                    <div>
+                                                        <label for="email" class="email">
+                                                            <span>E-mail</span>
+                                                            <input type="text" name="email" />
+                                                        </label>
+                                                    </div>
+                                                     <div>
+                                                        <label for="email" class="blah">
+                                                            <span>Blah</span>
+                                                            <input type="text" name="blah" />
+                                                        </label>
+                                                    </div>
+                                                   <div style="float: left;width: 200px;">
+                                                    <label for="the_question"><span>Do u have a degree</span></label>
+                                                    <input type="checkbox" name="the_question" id="the_question" value="1">
+                                                  </div>
+                                                   <div style="padding-left: 300px;">
+                                                    <label for="the_question"><span>Do u have a degree</span></label>
+                                                    <input type="checkbox" name="the_question" id="the_question" value="1">
+                                                  </div>
+                                                    <div>
+                                                        <label for="motivation" class="motivation">
+                                                            <span>Payment info(DD)</span>
+                                                            <textarea name="motivation"></textarea>
+                                                            <span class="word-left-count">0</span>
+                                                        </label>
+                                                    </div>
+                                                    <div>
+                                                    <label for="the_question"><span>Do u have a degree</span></label>
+                                                    <input type="checkbox" name="the_question" id="the_question" value="1">
+                                                  </div>
+
+                                                    <div class="uploadFiles"></div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="buttons">
+
+                                <div class="button-group">
+    <ul class="">
+                    <li data-sr="wait 0s, move 5em scale 0% over 0.5s">
+                <a target="_blank"  href="javascript:void(0)" class="button submit" data-hover-text="Submit">
+                    <span>Submit</span>
+                </a>
+            </li>
+            </ul>
+</div>                            </div>
+                        </div>
+
+                        <div class="thankYou sidebar-tab -withButtons zoomInRight">
+                            <div class="tab">
+                                <div class="tab-wrap">
+                                    <div class="tab-content">
+                                        <div class="tab-content-wrap">
+                                            <p>Thank you for your application.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="buttons">
+                                <div class="button-group">
+    <ul class="">
+                    <li data-sr="wait 0s, move 5em scale 0% over 0.5s">
+                <a target="_blank"  href="javascript:void(0)" class="button close" data-hover-text="Close">
+                    <span>Close</span>
+                </a>
+            </li>
+            </ul>
+</div>                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+
+                            <a data-module="BackArrow" href="../" class="back back" data-hover-text="Back">
+    <span>Back</span>
+</a>                    </div>
+    </div>
+</div>
+
+					<script src="/jobfair/js/main.min.js?v=0.0.117"></script>			
+			</body>
+</html>
+<!-- Dynamic page generated in 0.606 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-04 03:32:39 -->
+
+<!-- super cache -->
