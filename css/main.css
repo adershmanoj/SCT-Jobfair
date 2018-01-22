@@ -16,7 +16,6 @@ body{
 }
 h1, h2, h3, h5, h6, h4, ul{
     font-family: 'Open Sans', sans-serif;
-    font-weight:600;
     text-transform:uppercase
 }
 p{
@@ -121,6 +120,13 @@ h1{
 	width: 33.33%;
 	text-align: center;
 	padding: 15px;
+}
+.purple-bg{
+	background: purple;
+	background: linear-gradient(42deg, #082352, #6f2d52);
+}
+.purple-bg>div{
+	color: white;
 }
 .article blockquote{
     font-family:futura-pt,sans-serif!important;
@@ -255,9 +261,7 @@ body #content>div{
 }
 body #content>h1.logo{
     position:absolute;
-    top:3%;
-    left:4%;
-    font-size:.5em;
+    font-size:1.5em;
     z-index:500;
     -webkit-transition:opacity .6s cubic-bezier(.175,.885,.33,1);
     -webkit-transition:opacity .6s cubic-bezier(.175,.885,.33,1.09);
