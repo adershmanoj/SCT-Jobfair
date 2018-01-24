@@ -1,5 +1,5 @@
 body{
-    font-family:proxima-nova,sans-serif!important;
+	font-family: 'Open Sans', sans-serif;
     font-weight:400;
     font-size:14px;
     -webkit-font-smoothing:antialiased
@@ -97,7 +97,7 @@ h1{
 
 
 }
-.content{
+.main-content{
 	width: 100%;
 	background: white;
 	padding: 4%;
@@ -105,11 +105,11 @@ h1{
 	color: #282652;
 
 }
-.content p{
+.main-content p{
   	font-size: 18px;
 	line-height: 1.5;
 }
-.content h1{
+.main-content h1{
 	font-size: 50px;
 }
 .icons{
@@ -128,8 +128,75 @@ h1{
 .purple-bg>div{
 	color: white;
 }
+#form{
+	height:320px;
+	height:auto;
+	background-color: #fff;
+	margin:auto;
+	border-radius: 5px;
+	padding:20px;
+}
+.form-item{position: relative; display: block; margin-bottom: 20px;}
+.form-item input{transition: all .2s ease;}
+.form-style{
+	color:#8a8a8a;
+	display: block;
+	width: 90%;
+	height: 44px;
+	padding: 5px 5%;
+	border:1px solid #ccc;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #fff;
+  	font-family: 'Open Sans', sans-serif;
+	font-size: 105%;
+	letter-spacing: .8px;
+}
+#form a{
+	color:#58bff6;
+	text-decoration: none;
+}
+#form a:hover{
+	color:#aaa;
+}
+div.form-item .form-style:focus{outline: none; border:1px solid #58bff6; color:#58bff6; }
+div.form-item p.formLabel {
+	position: absolute;
+	left:26px;
+	top:2px;
+	transition:all .4s ease;
+	color:#bbb;}
+.formTop{top:-22px !important; left:26px; background-color: #fff; padding:0 5px; font-size: 14px; color:#58bff6 !important;}
+.formStatus{color:#8a8a8a !important;}
+input[type="submit"].login{
+	text-align: center;
+	width: 112px;
+	height: 37px;
+	-moz-border-radius: 19px;
+	-webkit-border-radius: 19px;
+	border-radius: 19px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #55b1df;
+	border:1px solid #55b1df;
+	border:none;
+	color: #fff;
+	font-weight: bold;
+}
+input[type="submit"].login:hover{background-color: #fff; border:1px solid #55b1df; color:#55b1df; cursor:pointer;}
+input[type="submit"].login:focus{outline: none;}
+.clear-fix{clear:both;}
+
+div.logo{text-align: center; color: #282652;transition: color 0.4s ease;}
+.logo-active{color: #44aacc !important;}
+
+
 .article blockquote{
-    font-family:futura-pt,sans-serif!important;
     font-weight:800!important;
     text-transform:uppercase
 }
@@ -257,7 +324,8 @@ body.unready{
     opacity:0
 }
 body #content>div{
-    overflow:hidden
+    overflow:hidden;
+
 }
 body #content>h1.logo{
     position:absolute;
@@ -293,7 +361,7 @@ body #content>h1.logo a{
 }
 
 #content[data-anim=default-withSidebar] #header,#content[data-anim=withSidebar-default] #header{
-    height:100%
+    height:100%;
 }
 #content[data-anim=default-withSidebar] .header-content,#content[data-anim=default-withSidebar] [data-module=BackArrow],#content[data-anim=withSidebar-default] .header-content,#content[data-anim=withSidebar-default] [data-module=BackArrow]{
     bottom:100%
@@ -588,6 +656,7 @@ body #content>h1.logo a{
     }
 }
 a.button,button{
+	text-transform: none;
     font-size:.9em;
     border:none;
     color:#fff;
@@ -756,6 +825,7 @@ a.button.loading:after,button.loading:after{
 }
 
 #header{
+	background: #27bdce;
     width:100%;
     height:100%;
     overflow:hidden;
@@ -800,6 +870,7 @@ a.button.loading:after,button.loading:after{
     #header .header-text>*{
         width:42%
     }
+	
 }
 
 #header.animateOut .header-text{
@@ -935,6 +1006,15 @@ a.button.loading:after,button.loading:after{
     }
 }
 @media (min-width:768px){
+	#form{
+		width: 360px;
+		position: absolute;
+		top: 27vh;
+		right: 2vw;
+	}
+	#header img{
+		margin-left: -10%;
+	}
     [data-module=MainMenu] .menu .submenu a,[data-module=MainMenu] .menu>li a{
         font-family:futura-pt,sans-serif!important;
         font-weight:600!important;
@@ -1352,11 +1432,7 @@ a.button.loading:after,button.loading:after{
     color:#fff;
     width:20%
 }
-[data-module=textWithQuote],[data-module=textWithBackground],[data-module=columns] .column.quote>div,[data-module=CallToAction] h2{
-    font-weight:800!important;
-    letter-spacing:.05em;
-    font-family:futura-pt,sans-serif!important
-}
+
 @media (max-width:767px){
     [data-module=Steps] dl dd{
         width:35%!important
@@ -1594,7 +1670,7 @@ a.button.loading:after,button.loading:after{
     background:#263340
 }
 [data-module=CallToAction].lightBlue{
-    background:#B92222
+    background:#BB0029
 }
 [data-module=CallToAction] h2{
     font-size:3.571428571em;
