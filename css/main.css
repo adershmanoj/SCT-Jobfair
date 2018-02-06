@@ -460,6 +460,7 @@ body #content>h1.logo a{
         transition:all .8s cubic-bezier(.23,1,.32,1)
     }
     #content[data-page-type=withSidebar] .content>div.header{
+				background: white;
         height:100%;
         padding:0;
         position:absolute;
@@ -475,10 +476,11 @@ body #content>h1.logo a{
         width:100%
     }
     #content[data-page-type=withSidebar] .content>div.header .header-content h1,#content[data-page-type=withSidebar] .content>div.header .header-content p{
+				color: #041424;
         display:table-cell;
         vertical-align:middle;
         text-align:center;
-        font-size:4em;
+        font-size:2em;
         font-family:futura-pt,sans-serif!important;
         font-weight:800!important;
         text-transform:uppercase;
@@ -823,7 +825,6 @@ a.button.loading:after,button.loading:after{
     -ms-transform:translateY(100%);
     transform:translateY(100%)
 }
-
 #header{
 	background: #27bdce;
     width:100%;
@@ -984,7 +985,7 @@ a.button.loading:after,button.loading:after{
 }
 @media (min-width:768px){
     [data-module=MainMenu]{
-        width:100%;
+        width:50%;
         height:100%;
         overflow:hidden;
         position:fixed;
@@ -1233,7 +1234,6 @@ a.button.loading:after,button.loading:after{
     }
     [data-module=MainMenu] .menu .submenu li{
         position:absolute;
-        width:100%;
         height:6em;
         margin-left:-15em
     }
